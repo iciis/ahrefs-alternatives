@@ -79,6 +79,10 @@ If you're looking for a **good alternative to ahrefs**, it’s important to choo
     
 A good ahrefs alternative should offer **essential SEO features** like keyword research, site audits, rank tracking, and backlink analysis—all with **accurate data and easy usability**. Even without a price tag, the tool should help you **grow your site’s visibility and compete effectively** in search results.
 
+<a href="https://afftrend.com/ahrefs"> 
+<img src="https://drive.google.com/uc?export=view&id=1X3j_4aWfdxpd4Dt_u1Juk-ZM5gyLrXpI" alt="Discover Possibilities"> 
+</a>
+
 ## Features to Look for in a Similarweb Alternative
 
 When searching for an **Ahrefs alternative**, it’s important to choose a tool that offers the most essential SEO features. While you may not get everything Ahrefs provides, the right features can still help you grow your traffic and improve your site’s performance.
