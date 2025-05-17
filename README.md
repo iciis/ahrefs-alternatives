@@ -30,7 +30,7 @@ Here’s what ahrefs can do:
     
     Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
 
-<a href="https://afftrend.com/ahrefs">
+  <a href="https://afftrend.com/ahrefs">
   <img src="https://drive.google.com/uc?export=view&id=1Wg3u1J9YvRkg1eRS62BKkog-e8rVubI9"  alt="Ahrefs Site Audit">
 </a>
     
@@ -38,8 +38,8 @@ Here’s what ahrefs can do:
     
     Monitors how your pages rank in search engine results over time for specific keywords.
 
-<a href="https://afftrend.com/ahrefs">
-  <img src="https://drive.google.com/uc?export=view&id=1DsFEOMBwWcz2vAD_Sm8oGc-vkX_CfP-S/"  alt="Ahrefs Rank Tracking">
+  <a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1DsFEOMBwWcz2vAD_Sm8oGc-vkX_CfP-S"  alt="Ahrefs Rank Tracking">
 </a>
 
 - **Backlink Analysis**
