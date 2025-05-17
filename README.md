@@ -21,15 +21,27 @@ Here’s what ahrefs can do:
 - **Keyword Research**
     
     Helps you find the best keywords to target, based on what people are searching for and how competitive the terms are.
+
+  <a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1SbAEw-Li8U7zgZlWbcQsUbTgSEfnyZcA"  alt="Ahrefs Keyword Research">
+</a>
     
 - **Site Audits**
     
     Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
+
+<a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1Wg3u1J9YvRkg1eRS62BKkog-e8rVubI9"  alt="Ahrefs Site Audit">
+</a>
     
 - **Rank Tracking**
     
     Monitors how your pages rank in search engine results over time for specific keywords.
-    
+
+<a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1DsFEOMBwWcz2vAD_Sm8oGc-vkX_CfP-S/"  alt="Ahrefs Rank Tracking">
+</a>
+
 - **Backlink Analysis**
     
     Shows who is linking to your site and how those links impact your rankings. Also helps you discover link-building opportunities.
@@ -41,6 +53,10 @@ Here’s what ahrefs can do:
 - **Competitor Analysis**
     
     Lets you compare your SEO performance with competitors to find areas for improvement.
+
+  <a href="https://afftrend.com/ahrefs">
+  <img src="https://drive.google.com/uc?export=view&id=1Ksprx1vvmSsrtQPuUFQLCTxMSnlIXUxf"  alt="Ahrefs Competitor Analysis">
+</a>
 
 Overall, **ahrefs helps users make smart SEO decisions** by offering clear data, helpful suggestions, and easy-to-use tools—all in one platform.
 
